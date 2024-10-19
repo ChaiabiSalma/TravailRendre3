@@ -1,0 +1,9 @@
+util\HibernateUtil.class
+entities\Salle.class
+org\example\Main.class
+dao\IDao.class
+services\SalleService.class
+test\SalleServiceTest.class
+services\MachineService.class
+test\Test.class
+entities\Machine.class
