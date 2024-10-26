@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/7661632f-9433-4f58-8a40-780d6358e3bc
 ## Gestion des Salles et Machines - Projet Hibernate
 ## Description
 Cette application est un système de gestion des salles et des machines. Elle permet d'effectuer des opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur ces entités en utilisant Hibernate pour la gestion des données dans une base de données relationnelle. L'objectif est de maintenir un inventaire à jour des salles et des machines d'une organisation.
@@ -22,4 +21,7 @@ Cette application est un système de gestion des salles et des machines. Elle pe
 
 ## demo
 
-Uploading enregistrement-de-l-ecran-2024-10-26-225915_GZuVFsdc.mp4…
+
+
+https://github.com/user-attachments/assets/110c6eb9-d1b0-4eae-9499-c20bef4f134b
+
